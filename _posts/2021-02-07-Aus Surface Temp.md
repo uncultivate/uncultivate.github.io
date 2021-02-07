@@ -2,6 +2,8 @@
 layout: post
 title: It's Getting Hotter in Here
 subtitle: Exploring & Visualising Australian Historical Temperature Data in Pandas
+gh-repo: https://github.com/redseraph/Australian-Temperatures
+gh-badge: [star, fork, follow]
 cover-img: /assets/img/output_46_0.png
 thumbnail-img: /assets/img/output_46_0.png
 share-img: /assets/img/output_46_0.png
