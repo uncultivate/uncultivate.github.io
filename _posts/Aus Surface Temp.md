@@ -1,4 +1,14 @@
-<h1>Exploring & Visualising Australian Historical Temperature Data in Python</h1>
+---
+layout: post
+title: It's Getting Hotter in Here
+subtitle: Exploring & Visualising Australian Historical Temperature Data in Pandas
+cover-img: /assets/img/output_46_0.png
+thumbnail-img: /assets/img/output_46_0.png
+share-img: /assets/img/output_46_0.png
+tags: [data science, exploration, visualisation, temperature, maps]
+---
+
+<h1>Exploring & Visualising Australian Historical Temperature Data in Pandas</h1>
 
 After enduring the hottest Australian summer on record in 2019/20 sheltered inside with air-con and air purifier running as large parts of my home state of New South Wales burned, I decided to run some exploratory analysis on the Bureau of Meteorology's fantastic [ACORN-SAT 2.1 database](http://www.bom.gov.au/climate/data/acorn-sat/). 
 >The Australian Climate Observations Reference Network – Surface Air Temperature (ACORN-SAT) is the dataset used by the Bureau of Meteorology to monitor long-term temperature trends in Australia. ACORN-SAT uses observations from 112 weather stations in all corners of Australia, selected for the quality and length of their available temperature data.
