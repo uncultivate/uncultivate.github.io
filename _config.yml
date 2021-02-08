@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: "Jonathan Sheahan"
+title: Jonathan Sheahan
 
 # Your name to show in the footer
-author: "Jonathan Sheahan"
+author: Jonathan Sheahan
 
 # --- List of links in the navigation bar --- #
 
@@ -124,8 +124,8 @@ page-img: "/assets/img/bgimage.png"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
-  - "/assets/js/particles.min.js"
-  - "/assets/js/particles-config.js"
+#  - "/assets/js/particles.min.js"
+#  - "/assets/js/particles-config.js"
 
 # --- Web Analytics Section --- #
 
