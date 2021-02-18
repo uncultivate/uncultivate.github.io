@@ -136,7 +136,7 @@ gtag: "G-YN8ERS149H"
 google_analytics: "G-YN8ERS149H"
 
 # Google Tag Manager ID
-#gtm: "G-YN8ERS149H"
+gtm: "G-YN8ERS149H"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
