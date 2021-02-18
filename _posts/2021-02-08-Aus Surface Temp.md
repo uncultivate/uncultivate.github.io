@@ -2,6 +2,9 @@
 layout: post2
 title: It's Getting Hotter in Here
 subtitle: Exploring & Visualising Australian Historical Temperature Data in Pandas
+cover-img: /assets/img/australian-bush.webp
+thumbnail-img: /assets/img/australian-bush.webp
+share-img: /assets/img/australian-bush.webp
 gh-repo: redseraph/Australian-Temperatures
 gh-badge: [star, fork, follow]
 tags: [data science, visualization, climate change, maps, pandas]
