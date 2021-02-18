@@ -130,13 +130,13 @@ site-css:
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-YN8ERS149H"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-RLHZ6N2LZ9"
+google_analytics: "G-YN8ERS149H"
 
 # Google Tag Manager ID
-gtm: "G-RLHZ6N2LZ9"
+#gtm: "G-YN8ERS149H"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
