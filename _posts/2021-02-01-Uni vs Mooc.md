@@ -7,6 +7,8 @@ comments: true
 ---
 <h2>Paths into Data Science: Weighing up the benefits of traditional and online courses in the age of COVID</h2>
 
+<img src="/assets/img/uni-vs-mooc.jfif" alt="University vs MOOC" title="University vs MOOC">
+
 In mid-2020 as the novel coronavirus lingered, Australian universities began to count the cost of lost international student revenue and hundreds of thousands of mostly services-sector workers were laid off. In an unconventional attempt to encourage reskilling, while bolstering university enrolment numbers, the Australian Government announced a relief package that would provide students with a semester of heavily subsidised, online-only education. 
 
 At the time, I had completed a handful of MOOCs (Massive Open Online Courses) on [Coursera](https://www.coursera.org/) & [edX](https://www.edx.org/) and was looking for a more rigorous option that would help me progress faster towards a future career in data science, like an intensive bootcamp, or formal university study. In the end I enrolled in a Graduate Certificate of Data Engineering at the Australian National University (ANU).
@@ -54,7 +56,7 @@ Google’s [Machine Learning Crash Course](https://developers.google.com/machine
 * Programming exercises run from Google Colab, equivalent to Jupyter Notebooks and a great way to review and edit clean, commented code
 * Short quizzes to check your understanding of key concepts
 
-<img src="/assets/img/screenshot-playground-tensorflow.png" alt="TensorFlow Playground" title="TensorFlow Playground" width="600" height="330" />
+<img src="/assets/img/screenshot-playground-tensorflow.png" alt="TensorFlow Playground" title="TensorFlow Playground">
 
 Granted, Google are one of the industry leaders in machine learning with boundless resources and expertise. But with several career certificates either currently available or coming soon across Information Technology (IT Support Specialist, Data Analyst, Project Manager & UX Designer), it is easy to see how these innovative tools could be rolled out across other STEM disciplines.  
 
