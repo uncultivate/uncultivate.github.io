@@ -136,7 +136,7 @@ site-css:
 #google_analytics: "G-RLHZ6N2LZ9"
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "G-RLHZ6N2LZ9"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
