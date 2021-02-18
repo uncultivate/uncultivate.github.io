@@ -2,9 +2,9 @@
 layout: post2
 title: Plant Recommendation Systems With Tensorflow
 subtitle: Using Machine Learning to Encourage Greater Biodiversity in Species Selection 
-cover-img: /assets/img/australian-bush.webp
-thumbnail-img: /assets/img/australian-bush.webp
-share-img: /assets/img/australian-bush.webp
+cover-img: /assets/img/aus-bush.webp
+thumbnail-img: /assets/img/aus-bush.webp
+share-img: /assets/img/aus-bush.webp
 gh-repo: redseraph/Plant-Recommendation
 gh-badge: [star, fork, follow]
 tags: [data science, visualization, plants, biodiversity, tensorflow]
