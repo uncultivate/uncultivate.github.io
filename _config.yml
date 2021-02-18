@@ -15,7 +15,7 @@ author: Jonathan Sheahan
 
 navbar-links:
 
-  Home: ""
+  Home: "https://www.uncultivate.com"
   About Me: "aboutme"
   Project Portfolio:
     - Plant Recommendation Systems With Tensorflow: "http://www.uncultivate.com/2021-02-15-Plant-Recommendation-Systems/"
