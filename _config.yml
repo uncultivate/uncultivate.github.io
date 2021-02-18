@@ -125,8 +125,7 @@ site-css:
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
-#  - "/assets/js/particles.min.js"
-#  - "/assets/js/particles-config.js"
+#  
 
 # --- Web Analytics Section --- #
 
@@ -134,7 +133,7 @@ site-css:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+#google_analytics: "G-RLHZ6N2LZ9"
 
 # Google Tag Manager ID
 #gtm: ""
