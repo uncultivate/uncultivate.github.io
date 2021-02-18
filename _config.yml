@@ -92,7 +92,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "data science,sustainability,portfolio,jonathan sheahan"
+keywords: "data science,sustainability,portfolio,jonathan sheahan"
 
 # --- Colours / background image --- #
 
@@ -133,10 +133,10 @@ site-css:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: "G-RLHZ6N2LZ9"
+google_analytics: "G-RLHZ6N2LZ9"
 
 # Google Tag Manager ID
-#gtm: "G-RLHZ6N2LZ9"
+gtm: "G-RLHZ6N2LZ9"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
