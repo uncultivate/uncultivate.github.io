@@ -7,8 +7,6 @@ share-img: /assets/img/uni-vs-mooc.jfif
 tags: [data science, university, MOOC, online study, ANU, Coursera, Google]
 comments: true
 ---
-<h2>Paths into Data Science: Weighing up the benefits of traditional and online courses in the age of COVID</h2>
-
 <img src="/assets/img/uni-vs-mooc.jfif" alt="University vs MOOC" title="University vs MOOC">
 
 In mid-2020 as the novel coronavirus lingered, Australian universities began to count the cost of lost international student revenue and hundreds of thousands of mostly services-sector workers were laid off. In an unconventional attempt to encourage reskilling, while bolstering university enrolment numbers, the Australian Government announced a relief package that would provide students with a semester of heavily subsidised, online-only education. 

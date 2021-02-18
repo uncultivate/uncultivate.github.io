@@ -10,9 +10,7 @@ gh-badge: [star, fork, follow]
 tags: [data science, visualization, plants, biodiversity, tensorflow]
 comments: true
 ---
-<h1>Plant Recommendation Systems with Tensorflow</h1>
-
-When you make decisions about what to watch as you open YouTube in your lunch break or Netflix in the evening, what to buy from Amazon or eBay or what to read as you scroll through your news feed, you are guided by machine learning-based recommendation systems that are ubiquitous throughout services offered by Big Tech. Indeed, it may have been via a ML-based recommendation that you came across this article! 
+When you make decisions about what to watch as you open YouTube in your lunch break or Netflix in the evening, what to buy from Amazon or eBay or what to read as you scroll through your news feed, you are guided by machine learning-based recommendation systems that are ubiquitous throughout services offered by Big Tech. Indeed, it may have been via a ML-based recommendation that you came across this article.
 
 These models determine the similarity of videos, products or stories to other things you like and serve up recommendations. 
 
