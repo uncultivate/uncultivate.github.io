@@ -133,7 +133,7 @@ The seedlings used in the study, known as river red gums (_right image_) in Aust
 
 The paper’s authors admit that the underlying mechanisms deserve further study. How does mycorrhizal fungi enable the plant to increase the update of major elements (Nitrogen, Phosphorous, Potassium) while reducing uptake of Sodium? Why do some combinations of plants & fungi demonstrate a high degree of interaction, whereas others do not? This is surely an area to watch closely in the future as we learn more about the symbiotic relationships underneath our feet. 
 
-Moreover, with at least of 93% of Australia's flowering plant species not found anywhere else in the world -- some 18,000 endemic species, we have a duty to appreciate, understand and utilise the power of fungi, from our rare remnant rainforests to vast deserts. From dining table stable to medical cure, to climate change secret weapon, fungi is an under-appreciated and untapped natural resource that Australia needs to capitalise on.
+Moreover, with at least of 93% of Australia's flowering plant species not found anywhere else in the world[^6] -- some 18,000 endemic species, we have a duty to appreciate, understand and utilise the power of fungi, from our rare remnant rainforests to vast deserts. From dining table staple to medical cure, to climate change secret weapon, fungi is an under-appreciated and untapped natural resource that Australia needs to capitalise on.
 
 If you are interested in further exploring the world of fungi and its potential in the fields of medicine, treating anxiety, food, agriculture and more, go watch the film [Fantastic Fungi](https://fantasticfungi.com/), directed by Louie Schwartzberg. It is a gentle & informative ride, with beautiful cinematography, time-lapse sequences & music, which places fungi at a central but up until now largely unrecognised place in our environment. 
 {: .box-note}
@@ -148,3 +148,4 @@ If you are interested in further exploring the world of fungi and its potential 
 [^3]: Azcón-Aguilar, C. et. Al. Analysis of the mycorrhizal potential in the rhizosphere of representative plant species from desertiﬁcation-threatened Mediterranean shrublands. Applied Soil Ecology 22, 29-37 (2003).
 [^4]: Gosling, P. et al, Arbuscular mycorrhizal fungi and organic farming. Agriculture, Ecosystems & Environment, Volume 133, 17-35 (2006).
 [^5]: Klinsukon, C., et. Al, Colonization by arbuscular mycorrhizal fungi improves salinity tolerance of eucalyptus (Eucalyptus camaldulensis) seedlings, Nature Scientific Reports, 11:4362 (2021).
+[^6]: Chapman, Arthur D. Numbers of Living Species in Australia and the World. 2nd edition. Australian Government, Department of the Environment, Water, Heritage and the Arts (2009).
