@@ -9,7 +9,9 @@ tags: fungi, Minnamurra, plants, biodiversity, research]
 comments: true
 ---
 
-Hiking in the [Minnamurra Rainforest](https://www.nationalparks.nsw.gov.au/things-to-do/visitor-centres/minnamurra-rainforest-centre) recently after a week of inclement weather, one did not have to look far off the elevated walkway to see a wide assortment of fungi and lichen.  Pushing out of moist soil or out of cracks in bark & rotting logs, my daughters and I found strange coral shapes, brackets, cups and mosses. <!--more-->Sifting through fallen leaves or overturning fallen branches, white fungal hyphae strands are everywhere, collectively forming a mycelium – the branching network of filaments absorbing nutrients and communicating information between fungi & plants. 
+Hiking in the [Minnamurra Rainforest](https://www.nationalparks.nsw.gov.au/things-to-do/visitor-centres/minnamurra-rainforest-centre) recently after a week of inclement weather, one did not have to look far off the elevated walkway to see a wide assortment of fungi and lichen.  Pushing out of moist soil or out of cracks in bark & rotting logs, my daughters and I found strange coral shapes, brackets, cups and mosses. 
+<!--more-->
+Sifting through fallen leaves or overturning fallen branches, white fungal hyphae strands are everywhere, collectively forming a mycelium – the branching network of filaments absorbing nutrients and communicating information between fungi & plants. 
 <head>
 <style>
 div.gallery {
