@@ -5,7 +5,7 @@ cover-img: /assets/img/fungi/IMG_20210223_102326.jpg
 thumbnail-img: /assets/img/fungi/IMG_20210224_100124.jpg
 share-img: /assets/img/fungi/IMG_20210224_100124.jpg
 excerpt_separator: <!--more-->
-tags: fungi, Minnamurra, plants, biodiversity, research]
+tags: fungi, Minnamurra, plants, biodiversity, research
 comments: true
 ---
 
