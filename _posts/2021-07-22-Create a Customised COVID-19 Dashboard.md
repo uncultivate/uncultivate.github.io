@@ -19,11 +19,11 @@ But regardless of how useful (or how depressing) the daily numbers may be, there
 
 Using [Power BI](https://powerbi.microsoft.com/) or similar dashboarding/BI platforms (i.e. [Amazon Quicksight](https://aws.amazon.com/quicksight/), all these are possible and more. Once the dashboard is created, it can be scheduled to update daily, providing you with the information you need to navigate the lockdown and make the decisions that are best for you and your family.
 
-##Dashboards and data sources
+<h2>Building Charts and Accessing Data Sources</h2>
 
 * Cases by source of infection - Line and stacked column chart
 * Source: https://covidlive.com.au/report/daily-wild-cases/nsw, https://covidlive.com.au/report/daily-cases/nsw
-![Locations](/assets/img/powerbi/1.png)
+<img src="/assets/img/powerbi/1.png" alt="Cases by source of infection" width="400"/>
 This chart combines two charts showing daily new cases from covidlive.com.au. The rolling average line is a Power BI *Measure* to see if the numbers are trending in the right direction. 
 
 * Cases in Sydney last 7 days - Map
