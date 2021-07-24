@@ -23,13 +23,13 @@ Using [Power BI](https://powerbi.microsoft.com/) or similar dashboarding/BI plat
 
 * Cases by source of infection - Line and stacked column chart
 * Source: (https://covidlive.com.au/report/daily-wild-cases/nsw), (https://covidlive.com.au/report/daily-cases/nsw)
-<img src="/assets/img/powerbi/1.png" alt="Cases by source of infection" width="400"/>
+<img src="/assets/img/powerbi/1.png" alt="Cases by source of infection" width="600"/>
 
 This chart combines two charts showing daily new cases from covidlive.com.au. The rolling average line is a Power BI *Measure* to see if the numbers are trending in the right direction. 
 
 * Cases in Sydney last 7 days - Map
 * Source: https://data.nsw.gov.au/data/api/3/, https://gist.github.com/randomecho/5020859
-![Locations](/assets/img/powerbi/2.png)
+<img src="/assets/img/powerbi/2.png" alt="Cases by source of infection" width="600"/>
 This chart combines case data from NSW health with a postcode database which provides the coordinates and suburb names for use in the map. Unfortunately the size of the bubbles in this default Bing map does not seem to accurately reflect the case count. The other option - ArcGIS Maps - gave me occasional authentication errors, so the Bing map remains, for now!
 
 * Areas of Concern - last 7 days - Table
