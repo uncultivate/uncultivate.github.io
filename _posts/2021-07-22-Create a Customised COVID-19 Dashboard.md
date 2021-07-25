@@ -1,7 +1,7 @@
 ---
 layout: post2
-title: Customised COVID-19 Dashboard
-subtitle: Creating a Personalised COVID-19 Dashboard in Power BI 
+title: Creating a Customised Covid Dashboard
+subtitle: Why you should consider creating your own personalised COVID-19 dashboard and how to do it in Microsoft Power BI
 cover-img: /assets/img/covid-dash.png
 thumbnail-img: /assets/img/covid-dash.png
 share-img: /assets/img/covid-dash.png
@@ -35,7 +35,7 @@ This chart combines case data from NSW health with a postcode database which pro
 
 * Areas of Concern - last 7 days - Table
 * Source: [NSW Health API](https://data.nsw.gov.au/data/api/3/)
-<img src="/assets/img/powerbi/3.png" alt="Cases by source of infection" width="600"/>
+<img src="/assets/img/powerbi/3.png" alt="Cases by source of infection" width="400"/>
 
 This table uses a measure for each area to filter for specific postcodes to achieve greater accuracy than LGA, which in some cases are very large. I live in Roselands so in this table I'm filtering for the Roselands postcode of 2196, together with postcodes in the surrounding area. The same has been repeated for the areas where my family and close friends reside. 
 
@@ -48,7 +48,7 @@ Here we combine vaccine doses and COVID tests to explore how these numbers are c
 * LGAs of concern - Table
 * Source: [NSW Health API](https://data.nsw.gov.au/data/api/3/)
 
-<img src="/assets/img/powerbi/5.png" alt="Cases by source of infection" width="600"/>
+<img src="/assets/img/powerbi/5.png" alt="Cases by source of infection" width="400"/>
 
 This table highlights LGAs that have seen substantial increases in new cases above the 7-day average, filtered for a daily increase above 10% and 3 or more new cases, bringing attention to potential hot-spots in the coming days if the trend continues. 
 
